@@ -1,0 +1,15 @@
+{
+  "saludo": "🏨 *BIENVENIDO A ROX MADRID*\n\nElige una opción:\n1️⃣ *PRECIOS* - Ver tarifas actuales\n2️⃣ *RESERVAR* - Hacer una reserva\n3️⃣ *UBICACIÓN* - Cómo llegar\n4️⃣ *SERVICIOS* - Qué incluye\n5️⃣ *WIFI* - Credenciales de acceso\n\n*O escribe tu pregunta directamente*",
+  
+  "precios": "💵 *TARIFAS POR NOCHE:*\n\n🛏️ *Dormitorio Compartido:* $30\n🚪 *Habitación Privada:* $45\n👨‍👩‍👧‍👦 *Incluye:* WiFi, desayuno, lockers\n*Check-in:* 15:00 | *Check-out:* 11:00",
+  
+  "reservar": "📋 *PARA RESERVAR:*\n\nPor favor envíanos:\n👉 *Tu nombre completo*\n👉 *Fecha de entrada*\n👉 *Fecha de salida*\n👉 *Número de huéspedes*\n👉 *Tipo de habitación*\n\n*Te confirmaremos disponibilidad y precio en menos de 10 minutos!*",
+  
+  "ubicacion": "🗺️ *CÓMO LLEGAR:*\n\n📍 C. de la Priora, 2, Centro, 28013 Madrid\n📌 https://maps.app.goo.gl/XGQyZJyMfwvqWP4b9\n\n*Transporte público:* A metros de conexión 2 y 5 del metro",
+  
+  "servicios": "🏆 *SERVICIOS INCLUIDOS:*\n\n✅ WiFi alta velocidad\n✅ Lavandería\n✅ Lockers seguridad\n✅ Sala común\n✅ Recepción 24/7\n✅ Información turística\n\n*Servicios adicionales:* Alquiler bicicletas, tours",
+  
+  "wifi": "🏆 *CREDENCIALES WIFI:*\n\n👉 Red: ROX MADRID\n👉 Contraseña: RoxMadrid8",
+  
+  "default": "🤔 No entendí tu mensaje.\n\nPuedes escribir:\n- *1* para precios\n- *2* para reservar\n- *3* para ubicación\n- *4* para servicios\n- *5* para wifi\n\n*O escribe tu pregunta y te ayudaremos!*"
+}
